@@ -1,1 +1,3 @@
 There is the file added to the master.
+
+This is the change done is the child1-master local.
